@@ -44,9 +44,6 @@ I am a passionate IT graduate focused on building scalable web applications usin
 🛠 Tech: HTML, CSS, JavaScript  
 ✨ Features: Showcases projects, skills, and contact info  
 
-## 📊 Languages Used Across My Repositories
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muskanpatel3&layout=compact&theme=tokyonight)
 
 # 📊 GitHub Stats:
 
