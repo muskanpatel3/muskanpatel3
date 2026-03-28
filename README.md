@@ -44,6 +44,10 @@ I am a passionate IT graduate focused on building scalable web applications usin
 🛠 Tech: HTML, CSS, JavaScript  
 ✨ Features: Showcases projects, skills, and contact info  
 
+## 📊 Languages Used Across My Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanpatel3&layout=compact&theme=tokyonight)
+
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=muskanpatel3&theme=radical)
