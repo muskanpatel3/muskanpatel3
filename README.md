@@ -45,11 +45,11 @@ I am a passionate IT graduate focused on building scalable web applications usin
 ✨ Features: Showcases projects, skills, and contact info  
 
 # 📊 GitHub Stats:
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanpatel3&show_icons=true&theme=radical)
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanpatel3&show_icons=true&theme=radical&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=muskanpatel3&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanpatel3&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanpatel3&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muskanpatel3&icon=0&color=0)](https://visitcount.itsvg.in)
