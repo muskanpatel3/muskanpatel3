@@ -11,7 +11,6 @@
 ## 🚀 Projects
 
 ### 🏡 NestAway Project
-🔗 Live Demo: (add if available)  
 💻 GitHub: https://github.com/muskanpatel3/NestAway-Project  
 🛠 Tech: Node.js, Express.js, MongoDB, EJS  
 ✨ Features: User authentication, listing system, reservation, reviews  
